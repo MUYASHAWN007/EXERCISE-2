@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+	if("Sunday and not raining") {
+		printf("game on");
+}
+	else if("Not Sunday and raining") {
+	       printf("no game");
+}
+return 0;
+
+}
