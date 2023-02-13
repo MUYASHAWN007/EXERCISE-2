@@ -1,0 +1,17 @@
+include <stdio.h>
+#include <math.h>
+
+int main() {
+	int i, sum = 0 ;
+	printf("the sum of the integers is : \n");
+	for(i = 0; i < 10000; i++) ;
+       if(i==2551);
+	{
+		sum = sum+ i;
+       scanf("%d, i");
+	   }
+	printf("\n the sum is %d\n", sum);
+
+return 0;
+
+}
